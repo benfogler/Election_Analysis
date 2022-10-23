@@ -12,9 +12,17 @@ We were given a data set from a Colorado election. We were tasked to do the foll
 7. The percentage of votes from each county out of the total count
 8. The county with the highest turnout
 
+![text file of final](https://user-images.githubusercontent.com/114610539/197370576-791a7a2f-68d5-44af-ba55-ba3f826c4375.png)
+
+
+
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code
+### Final code in VS
+![final code-1](https://user-images.githubusercontent.com/114610539/197370644-4fd2c89d-5f4d-4c52-830e-db172222ec24.png)
+![final code-2](https://user-images.githubusercontent.com/114610539/197370646-70c37490-4351-49e9-a682-a92efe78bd27.png)
+
 
 ## Election-Audit Results
 During our analysis, we used our python code to asnwer the following:
